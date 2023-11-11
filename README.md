@@ -5,6 +5,6 @@ Projeto sobre ONGS simples com sistema de registro, login e banco de dados
 ![image](https://github.com/pedrodev2005/Ongs/assets/145730026/a0ceaaf3-548f-4693-9605-1226157457a1)
 
 # 💻 Tecnologias
-# .PHP
-# .HTML/CSS
-# .JavaScript
+- PHP
+- HTML/CSS
+- JavaScript
