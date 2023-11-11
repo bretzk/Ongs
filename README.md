@@ -8,3 +8,4 @@ Projeto sobre ONGS simples com sistema de registro, login e banco de dados
 - PHP
 - HTML/CSS
 - JavaScript
+- Banco de dados com MySQL Server
